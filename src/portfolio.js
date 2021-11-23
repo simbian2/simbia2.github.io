@@ -64,8 +64,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "TypeScript",
+      fontAwesomeClassname: "fab fa-ts"
     },
     {
       skillName: "JavaScript",
