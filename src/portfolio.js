@@ -39,8 +39,8 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  title: "보유 스킬",
+  subTitle: "풀 스택으로 스킬을 갖고 있습니다.",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
